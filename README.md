@@ -1,13 +1,13 @@
 
-# Oasis Info Byte Internship - Level 1 Task 1
+# Oasis InfoByte Internship - Level 1 Task 1
 
 ## Landing Page Project
 
 ### Description:
-This project is part of the Oasis Info Byte Internship Level 1. The task involves creating a landing page for a fictional company or product.
+This project is part of the Oasis InfoByte Internship Level 1. The task involves creating a landing page.
 
 ### Task Requirements:
-- Design and implement a landing page using HTML, CSS, and optionally JavaScript.
+- Design and implement a landing page using HTML, CSS.
 - Ensure the landing page is visually appealing and user-friendly.
 - Incorporate responsive design principles to ensure the page looks good on different devices and screen sizes.
 
@@ -19,9 +19,6 @@ landing-page/
 ├── css/
 │   ├── styles.css      # CSS file for styling
 │   └── (other CSS files if necessary)
-│
-├── js/                 # Directory for JavaScript files (if used)
-│   └── script.js       # JavaScript file for interactivity (optional)
 │
 ├── images/             # Directory for images used in the landing page
 │
@@ -44,4 +41,3 @@ landing-page/
 [Pratiksha Waghmode](https://github.com/Pratiksha1661)
 
 Feel free to reach out if you have any questions or need further assistance!
-```
